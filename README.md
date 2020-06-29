@@ -1,4 +1,4 @@
-# ZorckMasterUPC
+# ZorckMasterUPC Telm Francesc Serra Malagrava
 <h1> COMMANDS </h1> <br />
 with no argument
 <ul>

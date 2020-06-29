@@ -27,7 +27,7 @@ World::World()
 	ex2->locked = true;
 
 	Exit* ex3 = new Exit("east", "west", "Church ", CentralNave, SmallRoom);
-	Exit* ex4 = new Exit("north", "sud", "Church ", CentralNave, Alter);
+	Exit* ex4 = new Exit("north", "south", "Church ", CentralNave, Alter);
 
 
 	entities.push_back(Stairs);

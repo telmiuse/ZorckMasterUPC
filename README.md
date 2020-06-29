@@ -39,7 +39,7 @@ with no argument
 <h1> MAP </h1>
 <p><img alt="Image" title="icon" src="https://github.com/telmiuse/ZorckMasterUPC/blob/master/Ilustracio%CC%81n-sin-ti%CC%81tulo%20(1).jpg" /></p>
 <h1> REST </H1>
-       In the small room you can find a bonfire when u can restore all your hitpoins
+       In the small room you can find a bonfire where you can restore all your hitpoins
 
 <p><img alt="Image" title="icon" src="https://i.ebayimg.com/images/g/PF0AAOSwIeNdeLT5/s-l300.jpg" /></p>
 <h1> NPC </H1> 

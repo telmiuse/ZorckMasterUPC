@@ -44,5 +44,5 @@ with no argument
 
 <p><img alt="Image" title="icon" src="https://i.ebayimg.com/images/g/PF0AAOSwIeNdeLT5/s-l300.jpg" /></p>
 <h1> NPC </H1> 
-Before go to the alter u must find Solair the soldier, he could give you some important information to kill one of the biggest monster 
+Before go to the alter you must find Solair the soldier, he could give you some important information to kill one of the biggest monster 
 <p><img alt="Image" title="icon" src="https://vignette.wikia.nocookie.net/darksouls/images/5/5e/Dark_souls_bonfire.jpg/revision/latest/scale-to-width-down/340?cb=20111031171925" /></p>

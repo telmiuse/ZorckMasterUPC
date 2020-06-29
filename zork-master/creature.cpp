@@ -290,7 +290,7 @@ void Creature::Rest(const vector<string>& args)
 		hit_points = 25;
 	}
 	else {
-		cout << "\n you cant rest in this roome \n";
+		cout << "\n you cant rest in this room \n";
 	}
 }
 
